@@ -1,0 +1,3 @@
+_G.Key = "HutaoDepZai"
+_G.Team = "Pirate" --Pirate or Marine
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/fef0694b5887834a71a7caef49d34871.lua"))()
